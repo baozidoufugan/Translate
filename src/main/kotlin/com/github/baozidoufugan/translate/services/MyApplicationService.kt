@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.baozidoufugan.translate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.baozidoufugan.translate.MyBundle
 
 class MyApplicationService {
 
